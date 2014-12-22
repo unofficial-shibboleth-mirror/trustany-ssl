@@ -12,7 +12,7 @@
 
     <groupId>net.shibboleth.utilities</groupId>
     <artifactId>trustany-ssl</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Trust Any Certificate X509TrustManager Extension</name>
